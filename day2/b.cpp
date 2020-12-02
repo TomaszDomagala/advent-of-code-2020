@@ -4,7 +4,6 @@
 #include <string>
 #include <regex>
 #include <cassert>
-#include <algorithm>
 
 using namespace std;
 
